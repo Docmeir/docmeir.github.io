@@ -23,10 +23,10 @@ timezone: America/New_York
 
 title: Docmeir Docs                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Labbing new ideas and technologies   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A place for documentation on cool technologies for the modern engineer.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://docmeir.github.io'
@@ -35,12 +35,12 @@ github:
   username: docmeir             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: docmeir25            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Docmeir
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 'https://images2.imgbox.com/2f/82/LGzqFQm4_o.gif'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
